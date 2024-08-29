@@ -34,14 +34,15 @@ Work experience
 Skills
 ======
 * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Languages
+  * Mandarin Chinese
+  * English
+  * Japanese
 * Skill 3
 
 Publications
 ======
+Haodong Zhang, Hongqi Li, Transformer-based EEG Decoding: A Survey. Submitted to IEEE Transaction on Neural Networks and Learning Systems,(Under Review)
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
