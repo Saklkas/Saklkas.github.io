@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* School of Software, Northwestern Polytechnical University                Sep. 2022 - July. 2025(expected)
-  * Master’s Degree in Software Engineering, GPA: 3.55/4.00                Xi'an, China
-  * Research area: Brain-Computer Interface, Machine Learning, Singal Processing, Artificial Intelligence.
+*  School of Software, Northwestern Polytechnical University
+  *  Sep. 2022 - July. 2025(expected)          
+  *  Master’s Degree in Software Engineering, GPA: 3.55/4.00                Xi'an, China
+  *  Research area: Brain-Computer Interface, Machine Learning, Singal Processing, Artificial Intelligence.
 * B.S. in Hangzhou, China, Zhejiang University of Technology,              Sep. 2016 - July. 2020
+  *  Sep. 2022 - July. 2025(expected)
   *  Bachelor’s Degree in Polymer Science and Engineering, GPA: 3.18/4.00, Last 2 years GPA: 3.59/4.0
   *  Key Courses: Additive Manufacturing, Finite Element Analysis, Computational Chemistry, CAE
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **June. 2024 - Present: Project I: Foundational Model Application on Brain Signals (Ongoing)**
+  _Keywords: LLMs, GPT, LLaMA, Self-supervised Learning, Brain signals_
+  * Collect and preprocess large-scale public EEG datasets to build a comprehensive training corpus.
+  * Pre-train models using self-supervised learning on large language models (e.g., GPT, LLaMA) and EEG-specific architectures to reconstruct neural signals.
+  * Fine-tune models for EEG decoding tasks, enhancing feature extraction and reducing dependency on labeled data while generalizing across tasks.
 
-* Fall 2015: Research Assistant
+* **Aug. 2024 - Present: Project II: Transformer-based Novel Model For Seizure Prediction (Ongoing)**
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
