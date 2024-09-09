@@ -12,9 +12,11 @@ redirect_from:
 Education
 ======
 * School of Software, Northwestern Polytechnical University                Sep. 2022 - July. 2025(expected)
-- Master’s Degree in Software Engineering, GPA: 3.55/4.00           Xi'an, China 
-*   
-* B.S. in Hangzhou, China, Zhejiang University of Technology,      2020
+  * Master’s Degree in Software Engineering, GPA: 3.55/4.00                Xi'an, China
+  * Research area: Brain-Computer Interface, Machine Learning, Singal Processing, Artificial Intelligence.
+* B.S. in Hangzhou, China, Zhejiang University of Technology,              Sep. 2016 - July. 2020
+  *  Bachelor’s Degree in Polymer Science and Engineering, GPA: 3.18/4.00, Last 2 years GPA: 3.59/4.0
+  *  Key Courses: Additive Manufacturing, Finite Element Analysis, Computational Chemistry, CAE
 
 Work experience
 ======
