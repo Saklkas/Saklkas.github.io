@@ -11,7 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.S. in Xi'an,    China, Northwestern Polytechnical University, 2025 (expected)
+* School of Software, Northwestern Polytechnical University           Sep. 2022 - July. 2025(expected)
+
+**  Master’s Degree in Software Engineering, GPA: 3.55/4.00           Xi'an, China 
+*   
 * B.S. in Hangzhou, China, Zhejiang University of Technology,      2020
 
 Work experience
