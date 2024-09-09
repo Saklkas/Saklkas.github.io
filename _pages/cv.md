@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* School of Software, Northwestern Polytechnical University           Sep. 2022 - July. 2025(expected)
-
-**  Master’s Degree in Software Engineering, GPA: 3.55/4.00           Xi'an, China 
+* School of Software, Northwestern Polytechnical University                Sep. 2022 - July. 2025(expected)
+- Master’s Degree in Software Engineering, GPA: 3.55/4.00           Xi'an, China 
 *   
 * B.S. in Hangzhou, China, Zhejiang University of Technology,      2020
 
