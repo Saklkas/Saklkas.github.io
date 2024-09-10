@@ -64,7 +64,7 @@ Skills
 * **Programming Languages**: Python, Java, C/C++, Matlab, R
 * **Data Science & Machine Learning**: Pytorch, Scikit-learn, Numpy, Scipy, Pandas, OpenCV
 * **Other Tools & Technologies**: LATEX, Figma, Notion, Microsoft Office, Blender, MNE-Python, Brain-decoding
-* **Research Skills**: Literature Review, Data collection, Experimental Design, Statistical Analysis, Hypothesis Testing, Scientific Writing, Academic Presentations, Citation Management
+* **Research Skills**: Literature Review, Data collection, Experimental Design, Statistical Analysis, Hypothesis Testing, Scientific Writing, Academic Presentations, Citation Management
 * **Language Skills**: Mandarin Chinese (Native), English (Proficiency), Japanese (Proficiency)
 
 
