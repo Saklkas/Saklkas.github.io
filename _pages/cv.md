@@ -43,7 +43,7 @@ _Research assistant_, Advisior: Prof. Hongqi Li
   * Defined the concept of the "Large Brain-signal Model," providing the first formal characterization for EEG signal decoding, exploring its architecture, functions, and potential impact.
   * Developed a comprehensive flowchart of Transformer architectures in EEG decoding and discussed key challenges (e.g., data diversity, model generalization) and future prospects for the field.
 * **Project IV: EEG Decoding with Temporal-Spectral-Spatial Transformer** _Oct. 2023 - May. 2024_
-  * CNN, Transformer, Multi-Features, Multi-Branch,
+  * _keywords: CNN, Transformer, Multi-Features, Multi-Branch_
   * Developed a novel EEG decoding model, Dual-TSST, which integrates both temporal and spectral features using a dual-branch convolutional neural network to handle raw EEG and time-frequency data derived from wavelet transformations.
   * Combined extracted features using a Transformer encoder, capturing global long-range dependencies in non-stationary EEG signals, leading to superior classification performance.
   * Achieved competitive results on public datasets such as BCI IV 2a, BCI IV 2b, and SEED, with accuracy rates of 80.67%, 88.64%, and 96.65%, respectively, surpassing state-of-the-art models.
@@ -54,10 +54,10 @@ _Research assistant_, Advisior: Prof. Hongqi Li
   * Integrated a biophysical volume conduction model and GAN to generate high-quality, multichannel EEG signals with physiological interpretability.
   * Addressed the challenge of data scarcity in brain-computer interface (BCI) systems by creating realistic EEG signals, enabling more accessible and efficient research for neural signal decoding and BCI applications.
 * **Project VI: Pix2Pix GAN for Realistic Face Generation**
-  _keyword: Image Generation, GAN, Pix2Pix, U-Net, CelebA_ 
-  * Developed a Pix2Pix GAN-based model with a U-Net generator and Patch GAN discriminator to generate face images from random noise.
-  * Trained the model using a subset of the CelebA dataset (1,000 images), optimizing with L1 and GAN losses for image-to-image translation tasks.
-  * Conducted extensive tests to evaluate the model performance at different epochs, analyzing generated image quality and training anomalies.
+   * _keyword: Image Generation, GAN, Pix2Pix, U-Net, CelebA_ 
+   * Developed a Pix2Pix GAN-based model with a U-Net generator and Patch GAN discriminator to generate face images from random noise.
+   * Trained the model using a subset of the CelebA dataset (1,000 images), optimizing with L1 and GAN losses for image-to-image translation tasks.
+   * Conducted extensive tests to evaluate the model performance at different epochs, analyzing generated image quality and training anomalies.
 
 Skills
 ======
