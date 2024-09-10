@@ -12,15 +12,15 @@ redirect_from:
 Education
 ======
 *  **School of Software, Northwestern Polytechnical University**
-  *  _Sep. 2022 - July. 2025(expected)_,  Xi'an, China
-  *  GPA: 3.55/4.00  
-  *  Master’s Degree in Software Engineering,               
-  *  Research area: Brain-Computer Interface, Machine Learning, Singal Processing, Artificial Intelligence.
+   *  _Sep. 2022 - July. 2025(expected)_,  Xi'an, China
+   *  GPA: 3.55/4.00  
+   *  Master’s Degree in Software Engineering,               
+   *  Research area: Brain-Computer Interface, Machine Learning, Singal Processing, Artificial Intelligence.
 *  **College of Material Science and Engineering, Zhejiang University of Technology**         
-  *  _Sep. 2022 - July. 2025(expected)_  Hangzhou, China
-  *  Bachelor’s Degree in Polymer Science and Engineering,
-  *  GPA: 3.18/4.00, Last 2 years GPA: 3.59/4.0
-  *  Key Courses: Additive Manufacturing, Finite Element Analysis, Computational Chemistry, CAE
+   *  _Sep. 2022 - July. 2025(expected)_  Hangzhou, China
+   *  Bachelor’s Degree in Polymer Science and Engineering,
+   *  GPA: 3.18/4.00, Last 2 years GPA: 3.59/4.0
+   *  Key Courses: Additive Manufacturing, Finite Element Analysis, Computational Chemistry, CAE
 
 Research Experience
 ======
