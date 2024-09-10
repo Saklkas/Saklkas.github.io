@@ -49,10 +49,10 @@ _Research assistant_, Advisior: Prof. Hongqi Li
   * Achieved competitive results on public datasets such as BCI IV 2a, BCI IV 2b, and SEED, with accuracy rates of 80.67%, 88.64%, and 96.65%, respectively, surpassing state-of-the-art models.
   * Demonstrated that Dual-TSST enhances EEG decoding by efficiently capturing both short-term temporal patterns and long-term spatial dependencies, paving the way for more accurate brain-computer interface applications.
 *  **Project V: Generative Multichannel EEG Modeling Based on Neuronal Mass Models** _Aug. 2023 - Oct. 2023_
-  *  _keyword: EEG, Generative Modeling, Neuronal Mass Models, GAN, BCI_
-  * Developed a generative EEG modeling method using interconnected neuronal mass models (NMM) and a spatiotemporal source model for simulating neural signal dynamics.
-  * Integrated a biophysical volume conduction model and GAN to generate high-quality, multichannel EEG signals with physiological interpretability.
-  * Addressed the challenge of data scarcity in brain-computer interface (BCI) systems by creating realistic EEG signals, enabling more accessible and efficient research for neural signal decoding and BCI applications.
+   *  _keyword: EEG, Generative Modeling, Neuronal Mass Models, GAN, BCI_
+   * Developed a generative EEG modeling method using interconnected neuronal mass models (NMM) and a spatiotemporal source model for simulating neural signal dynamics.
+   * Integrated a biophysical volume conduction model and GAN to generate high-quality, multichannel EEG signals with physiological interpretability.
+   * Addressed the challenge of data scarcity in brain-computer interface (BCI) systems by creating realistic EEG signals, enabling more accessible and efficient research for neural signal decoding and BCI applications.
 * **Project VI: Pix2Pix GAN for Realistic Face Generation**
    * _keyword: Image Generation, GAN, Pix2Pix, U-Net, CelebA_ 
    * Developed a Pix2Pix GAN-based model with a U-Net generator and Patch GAN discriminator to generate face images from random noise.
