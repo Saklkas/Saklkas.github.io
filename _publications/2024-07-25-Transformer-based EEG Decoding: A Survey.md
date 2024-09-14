@@ -7,9 +7,8 @@ excerpt: 'Electroencephalography (EEG) is widely used to capture brain activity,
 date: 2024-07-25
 venue: 'Submitted to IEEE Transaction on Neural Networks and Learning Systems.
 '
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
+
 ---
 
 The content will be uploaded when it is published.
