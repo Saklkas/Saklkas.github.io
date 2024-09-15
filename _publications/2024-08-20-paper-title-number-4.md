@@ -1,7 +1,7 @@
 ---
 title: "Dual-TSST: Dual-Branch Temporal-Spectral-Spatial Transformer Model for EEG 
 Decoding"
-collection: Publications
+collection: publications
 category: manuscripts
 permalink: /publication/2024-08-20-Dual-TSST: Dual-Branch Temporal-Spectral-Spatial Transformer Model for EEG 
 Decoding
